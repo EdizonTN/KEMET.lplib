@@ -2,9 +2,7 @@
 
 ## Description
 
-Capacitors and other electronic components.
-
-Unofficial library, not endorsed by KEMET.
+This is an unofficial testing [LibrePCB](https://librepcb.org) library. 
 
 ## License
 
