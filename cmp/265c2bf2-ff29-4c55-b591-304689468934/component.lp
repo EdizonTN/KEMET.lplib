@@ -12,7 +12,7 @@
  (prefix "C")
  (attribute "MPN" (type string) (unit none) (value "C322C472J1G5TA"))
  (attribute "DATASHEET" (type string) (unit none) (value "https://www.tme.eu/Document/9e9c7e4c14aa0c3027e87c013fe16fba/KEM_C1049_GOLDMAX_C0G.pdf"))
- (attribute "ORDERCODE_TME" (type string) (unit none) (value "C317C100J1G5TA"))
+ (attribute "ORDERCODE_TME" (type string) (unit none) (value "C322C472J1G5TA"))
  (attribute "ORDERCODE_FARNELL" (type string) (unit none) (value "1457677"))
  (attribute "VALUE" (type capacitance) (unit nanofarad) (value "4.7"))
  (signal 8328b293-fb43-451b-ad63-903a5137eccd (name "1") (role passive)
