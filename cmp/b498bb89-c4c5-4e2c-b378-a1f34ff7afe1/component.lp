@@ -14,7 +14,7 @@
  (attribute "DATASHEET" (type string) (unit none) (value "https://www.tme.eu/Document/93c69aedccb8f9abc0a0fdd359832c68/KEMET_C300series_GOLDMAX_X7R.pdf"))
  (attribute "ORDERCODE_TME" (type string) (unit none) (value "C315C103K1R5TA"))
  (attribute "ORDERCODE_FARNELL" (type string) (unit none) (value "1457642"))
- (attribute "VALUE" (type capacitance) (unit nanofarad) (value "1"))
+ (attribute "VALUE" (type capacitance) (unit nanofarad) (value "10"))
  (signal 505906d4-e2a6-4514-9b70-ccc8a9ca27b5 (name "1") (role passive)
   (required true) (negated false) (clock false) (forced_net "")
  )
