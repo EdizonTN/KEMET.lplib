@@ -2,7 +2,7 @@
  (name "KEMET")
  (description "This is an unofficial testing LibrePCB library. Kemet ceramic capacitors series 315, 317, 320 and 322. For each value is order code TME.EU or/and Farnell.")
  (keywords "capacitors, kemet, CCAP")
- (author "LibrePCB")
+ (author "EdizonTN")
  (version "0.2")
  (created 2019-04-16T20:20:42Z)
  (deprecated false)
