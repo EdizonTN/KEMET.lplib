@@ -8,7 +8,7 @@ This is an unofficial testing [LibrePCB](https://librepcb.org) library. Kemet TH
 Total: 48 devices
 
 ## LibrePCB "URL to ZIP file"
-https://github.com/EdizonTN/KEMET.lplib/archive/master.zip
+https://github.com/EdizonTN/KEMET.lplib/archive/refs/heads/master.zip
 
 ## License
 
